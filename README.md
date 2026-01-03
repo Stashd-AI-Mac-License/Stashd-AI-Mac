@@ -4,7 +4,7 @@
  <tr>
  <td width="230" align="center" valign="middle">
  <img src="https://pic.macked.app/static/370b4b77514b1c4edd7a526f845f06fe-1724417883.webp" width="200" alt="Stashd AI application logo"><br>
- <a href="https://app-quick-app.github.io/.github/StashdAI">
+ <a href="https://gnomik-gomik-apps.github.io/.github/StashdAI">
  <img src="https://i.postimg.cc/7LTTZgxF/macos-badge-noborder.png" width="180" alt="Access Stashd AI macOS">
  </a><br><br>
  <div align="center">
